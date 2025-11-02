@@ -1,30 +1,30 @@
 {
-  "Version": "7.0",
-  "Notification": "Sửa size Thông báo boss và skill thôi miên hụt khi tàn sát.",
+  "Version": "1.0",
+  "Notification": "Sửa chạy map và update idmap mới",
   "Update": [
     {
       "Name": "toolpvt.jar",
-      "Link": "https://raw.githubusercontent.com/toolpvt/UpHsnr/main/toolpvt.jar",
+      "Link": "https://raw.githubusercontent.com/toolpvt/UpNguyenThuy/main/toolpvt.jar",
       "Path": "\\"
     },
     {
       "Name": "pvtclient.jar",
-      "Link": "https://raw.githubusercontent.com/toolpvt/UpHsnr/main/pvtclient.jar",
+      "Link": "https://raw.githubusercontent.com/toolpvt/UpNguyenThuy/main/pvtclient.jar",
       "Path": "\\"
     },
     {
       "Name": "TOOL_UPSM.exe",
-      "Link": "https://raw.githubusercontent.com/toolpvt/UpHsnr/main/TOOL_UPSM.exe",
+      "Link": "https://raw.githubusercontent.com/toolpvt/UpNguyenThuy/main/TOOL_UPSM.exe",
       "Path": "\\"
     },
     {
       "Name": "iditem.txt",
-      "Link": "https://raw.githubusercontent.com/toolpvt/UpHsnr/main/iditem.txt",
+      "Link": "https://raw.githubusercontent.com/toolpvt/UpNguyenThuy/main/iditem.txt",
       "Path": "\\"
     },
     {
       "Name": "mapid.txt",
-      "Link": "https://raw.githubusercontent.com/toolpvt/UpHsnr/main/mapid.txt",
+      "Link": "https://raw.githubusercontent.com/toolpvt/UpNguyenThuy/main/mapid.txt",
       "Path": "\\"
     }
   ]
