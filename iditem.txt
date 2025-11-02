@@ -1,0 +1,2181 @@
+0: Áo vải 3 lỗ - 390
+1: Áo sợi len - 393
+2: Áo vải thô - 392
+3: Áo vải dày - 389
+4: Áo len Pico - 394
+5: Áo giáp sắt - 391
+6: Quần vải đen - 396
+7: Quần sợi len - 398
+8: Quần vải thô - 400
+9: Quần vải dày - 395
+10: Quần vải thô Pico - 397
+11: Quần giáp sắt - 399
+12: Rada cấp 1 - 1089
+13: Đậu thần cấp 1 - 241
+14: Ngọc Rồng 1 sao - 419
+15: Ngọc Rồng 2 sao - 420
+16: Ngọc Rồng 3 sao - 421
+17: Ngọc Rồng 4 sao - 422
+18: Ngọc Rồng 5 sao - 423
+19: Ngọc Rồng 6 sao - 424
+20: Ngọc Rồng 7 sao - 425
+21: Găng vải đen - 408
+22: Găng sợi len - 411
+23: Găng vải thô - 409
+24: Găng thun đen - 408
+25: Găng len Pico - 412
+26: Găng sắt - 410
+27: Giầy nhựa - 401
+28: Giầy sợi len - 405
+29: Giầy vải thô - 403
+30: Giầy cao su - 401
+31: Giầy nhựa Pico - 406
+32: Giầy sắt - 404
+33: Áo thun 3 lỗ - 390
+34: Áo thun dày - 389
+35: Quần thun đen - 396
+36: Quần thun dày - 395
+37: Găng vải dày - 407
+38: Găng thun dày - 407
+39: Giày nhựa đế dày - 402
+40: Giày cao su đế dày - 402
+41: Áo sợi gai - 393
+42: Áo thun Pico - 394
+43: Quần sợi gai - 398
+44: Quần thun Pico - 397
+45: Găng thun Pico - 412
+46: Găng sợi gai - 411
+47: Giầy sợi gai - 405
+48: Giầy cao su Pico - 406
+49: Áo thun thô - 392
+50: Áo giáp đồng - 391
+51: Quần thun thô - 400
+52: Quần giáp đồng - 399
+53: Găng thun thô - 409
+54: Găng đồng - 410
+55: Giầy cao su thô - 403
+56: Giầy đồng - 404
+57: Rada cấp 2 - 433
+58: Rada cấp 3 - 1022
+59: Rada cấp 4 - 1023
+60: Đậu thần cấp 2 - 241
+61: Đậu thần cấp 3 - 241
+62: Đậu thần cấp 4 - 241
+63: Đậu thần cấp 5 - 241
+64: Đậu thần cấp 6 - 241
+65: Đậu thần cấp 7 - 241
+66: Sách đấm Dragon lv1 - 644
+67: Sách đấm Dragon lv2 - 645
+68: Sách đấm Dragon lv3 - 646
+69: Sách đấm Dragon lv4 - 647
+70: Sách đấm Dragon lv5 - 648
+71: Sách đấm Dragon lv6 - 649
+72: Sách đấm Dragon lv7 - 650
+73: Đùi gà - 643
+74: Đùi gà nướng - 643
+75: Đùi heo Xayda - 241
+76: Vàng - 927
+77: Ngọc - 932
+78: Đứa bé - 737
+79: Sách đấm Demon lv1 - 665
+80: Sách đấm Demon lv2 - 666
+81: Sách đấm Demon lv3 - 667
+82: Sách đấm Demon lv4 - 668
+83: Sách đấm Demon lv5 - 669
+84: Sách đấm Demon lv6 - 670
+85: Truyện tranh - 1041
+86: Sách đấm Demon lv7 - 671
+87: Sách đấm Galick lv1 - 679
+88: Sách đấm Galick lv2 - 680
+89: Sách đấm Galick lv3 - 681
+90: Sách đấm Galick lv4 - 682
+91: Sách đấm Galick lv5 - 683
+92: Sách đấm Galick lv6 - 684
+93: Sách đấm Galick lv7 - 685
+94: Sách Kamejoko lv1 - 651
+95: Sách Kamejoko lv2 - 652
+96: Sách Kamejoko lv3 - 653
+97: Sách Kamejoko lv4 - 654
+98: Sách Kamejoko lv5 - 655
+99: Sách Kamejoko lv6 - 656
+100: Sách Kamejoko lv7 - 657
+101: Sách Masenko lv1 - 672
+102: Sách Masenko lv2 - 673
+103: Sách Masenko lv3 - 674
+104: Sách Masenko lv4 - 675
+105: Sách Masenko lv5 - 676
+106: Sách Masenko lv6 - 677
+107: Sách Masenko lv7 - 678
+108: Sách Antomic lv1 - 686
+109: Sách Antomic lv2 - 687
+110: Sách Antomic lv3 - 688
+111: Sách Antomic lv4 - 689
+112: Sách Antomic lv5 - 690
+113: Sách Antomic lv6 - 691
+114: Sách Antomic lv7 - 692
+115: Thái Dương Hạ San lv1 - 658
+116: Thái Dương Hạ San lv2 - 659
+117: Thái Dương Hạ San lv3 - 660
+118: Thái Dương Hạ San lv4 - 661
+119: Thái Dương Hạ San lv5 - 662
+120: Thái Dương Hạ San lv6 - 663
+121: Thái Dương Hạ San lv7 - 664
+122: Sách học Trị thương lv1 - 1090
+123: Sách học Trị thương lv2 - 1091
+124: Sách học Trị thương lv3 - 1092
+125: Sách học Trị thương lv4 - 1093
+126: Sách học Trị thương lv5 - 1094
+127: Sách học Trị thương lv6 - 1095
+128: Sách học Trị thương lv7 - 1096
+129: Tái tạo năng lượng lv1 - 1097
+130: Tái tạo năng lượng lv2 - 1098
+131: Tái tạo năng lượng lv3 - 1099
+132: Tái tạo năng lượng lv4 - 1100
+133: Tái tạo năng lượng lv5 - 1101
+134: Tái tạo năng lượng lv6 - 1102
+135: Tái tạo năng lượng lv7 - 1103
+136: Áo vải Kame - 938
+137: Áo thun Kame - 938
+138: Áo võ Kame - 949
+139: Áo võ Goku - 949
+140: Quần vải Kame - 939
+141: Quần thun Kame - 939
+142: Quần võ Kame - 950
+143: Quần võ goku - 950
+144: Găng vải Kame - 947
+145: Găng thun Kame - 947
+146: Găng võ Kame - 953
+147: Găng võ goku - 953
+148: Giày nhựa Kame - 940
+149: Giày cao su Kame - 940
+150: Giày võ kame - 952
+151: Giày võ goku - 952
+152: Áo choàng len - 942
+153: Áo choàng thun - 942
+154: Áo vải Pico - 959
+155: Áo da Pico - 959
+156: Quần len cứng - 943
+157: Quần thun cứng - 943
+158: Quần vải cứng Pico - 960
+159: Quần vải mềm Pico - 960
+160: Găng len cứng - 948
+161: Găng thun cứng - 948
+162: Găng vải Pico - 961
+163: Găng da Pico - 961
+164: Giày nhựa cứng - 945
+165: Giày cao su cứng - 945
+166: Giày da Pico - 963
+167: Giày sắt Pico - 963
+168: Áo giáp bạc - 934
+169: Áo giáp vàng - 934
+170: Áo lông Xayda - 954
+171: Áo khoác Xayda - 954
+172: Quần giáp bạc - 935
+173: Quần giáp vàng - 935
+174: Quần lông Xayda - 955
+175: Quần da Xayda - 955
+176: Găng bạc - 946
+177: Găng vàng - 946
+178: Găng lông Xayda - 956
+179: Găng da Xayda - 956
+180: Giày bạc - 936
+181: Giày vàng - 936
+182: Giày lông Xayda - 957
+183: Giày da Xayda - 957
+184: Rada cấp 5 - 1019
+185: Rada cấp 6 - 1020
+186: Rada cấp 7 - 1021
+187: Rada cấp 8 - 434
+188: Vàng - 928
+189: Vàng - 929
+190: Vàng - 930
+191: Cà chua - 931
+192: Cà rốt - 933
+193: Gói 10 viên Capsule - 1087
+194: Viên Capsule đặc biệt - 1088
+195: Siêu thánh thủy - 1088
+196: Avatar - 1383
+197: Avatar - 1380
+198: Avatar - 1379
+199: Avatar - 1378
+200: Avatar - 1381
+201: Avatar - 1382
+202: Avatar - 1377
+203: Avatar - 1387
+204: Avatar - 1385
+205: Avatar - 1389
+206: Avatar - 1384
+207: Avatar - 1386
+208: Avatar - 1388
+209: Avatar - 17
+210: Avatar - 17
+211: Nho tím - 1394
+212: Nho xanh - 1395
+213: Bùa Trí Tuệ - 1403
+214: Bùa Mạnh Mẽ - 1404
+215: Bùa Da Trâu - 1405
+216: Bùa Oai Hùng - 1406
+217: Bùa Bất Tử - 1407
+218: Bùa Dẻo Dai - 1408
+219: Bùa Thu Hút - 1409
+220: Đá lục bảo - 1420
+221: Đá Saphia - 1419
+222: Đá Ruby - 1416
+223: Đá Titan - 1417
+224: Đá thạch anh tím - 1418
+225: Mảnh đá vụn - 1421
+226: Bình nước phép - 1422
+227: Avatar VIP - 1477
+228: Avatar VIP - 1454
+229: Avatar VIP - 1478
+230: Áo bạc Goku - 1689
+231: Áo vàng Goku - 1689
+232: Áo da Calic - 1688
+233: Áo jean Calic - 1688
+234: Áo sắt Tron - 1692
+235: Áo đồng Tron - 1692
+236: Áo bạc Zealot - 1693
+237: Áo vàng Zealot - 1693
+238: Áo lông đỏ - 1690
+239: Áo siêu xayda - 1690
+240: Áo Kaio - 1691
+241: Áo lưỡng long - 1691
+242: Quần bạc Goku - 1695
+243: Quần vàng Goku - 1695
+244: Quần da Calic - 1694
+245: Quần jean Calic - 1694
+246: Quần sắt Tron - 1698
+247: Quần đồng Tron - 1698
+248: Quần bạc Zealot - 1699
+249: Quần vàng Zealot - 1699
+250: Quần lông đỏ - 1696
+251: Quần siêu Xayda - 1696
+252: Quần Kaio - 1697
+253: Quần lưỡng long - 1697
+254: Găng bạc Goku - 1707
+255: Găng vàng Goku - 1707
+256: Găng da Calic - 1706
+257: Găng jean Calic - 1706
+258: Găng sắt Tron - 1711
+259: Găng đồng Tron - 1711
+260: Găng bạc Zealot - 1710
+261: Găng vàng Zealot - 1710
+262: Găng lông đỏ - 1708
+263: Găng siêu Xayda - 1708
+264: Găng Kaio - 1709
+265: Găng lưỡng long - 1709
+266: Giày bạc Goku - 1701
+267: Giày vàng Goku - 1701
+268: Giày da Calic - 1700
+269: Giày jean Calic - 1700
+270: Giày sắt Tron - 1704
+271: Giày đồng Tron - 1704
+272: Giày bạc Zealot - 1705
+273: Giày vàng Zealot - 1705
+274: Giày lông đỏ - 1702
+275: Giày siêu Xayda - 1702
+276: Giày Kaio - 1703
+277: Giày lưỡng long - 1703
+278: Rada cấp 9 - 1712
+279: Rada cấp 10 - 1712
+280: Rada cấp 11 - 1713
+281: Rada cấp 12 - 1713
+282: Cải trang Thần Vũ Trụ - 2127
+283: Cải trang Yarirobe - 2128
+284: Cải trang Tàu Pảy Pảy - 1210
+285: Cải trang Thần Mèo Karin - 2126
+286: Cải trang Thượng Đế - 2129
+287: Cải trang Pôpô - 2133
+288: Cải trang Kuku - 2137
+289: Cải trang Rambô - 2125
+290: Cải trang Số 2 - 2124
+291: Cải trang Ninja Áo Tím - 2131
+292: Cải trang Số 3 - 2123
+293: Gói 30 đậu thần cấp 1 - 241
+294: Gói 30 đậu thần cấp 2 - 241
+295: Gói 30 đậu thần cấp 3 - 241
+296: Gói 30 đậu thần cấp 4 - 241
+297: Gói 30 đậu thần cấp 5 - 241
+298: Gói 30 đậu thần cấp 6 - 241
+299: Gói 30 đậu thần cấp 7 - 241
+300: Kaioken lv1 - 716
+301: Kaioken lv2 - 716
+302: Kaioken lv3 - 716
+303: Kaioken lv4 - 716
+304: Kaioken lv5 - 716
+305: Kaioken lv6 - 716
+306: Kaioken lv7 - 716
+307: Quả cầu Kênh Khi lv1 - 717
+308: Quả cầu Kênh Khi lv2 - 717
+309: Quả cầu Kênh Khi lv3 - 717
+310: Quả cầu Kênh Khi lv4 - 717
+311: Quả cầu Kênh Khi lv5 - 717
+312: Quả cầu Kênh Khi lv6 - 717
+313: Quả cầu Kênh Khi lv7 - 717
+314: Hóa khỉ khổng lồ lv1 - 718
+315: Hóa khỉ khổng lồ lv2 - 718
+316: Hóa khỉ khổng lồ lv3 - 718
+317: Hóa khỉ khổng lồ lv4 - 718
+318: Hóa khỉ khổng lồ lv5 - 718
+319: Hóa khỉ khổng lồ lv6 - 718
+320: Hóa khỉ khổng lồ lv7 - 718
+321: Bom hi sinh lv1 - 2248
+322: Bom hi sinh lv2 - 2248
+323: Bom hi sinh lv3 - 2248
+324: Bom hi sinh lv4 - 2248
+325: Bom hi sinh lv5 - 2248
+326: Bom hi sinh lv6 - 2248
+327: Bom hi sinh lv7 - 2248
+328: Makankosappo lv1 - 723
+329: Makankosappo lv2 - 723
+330: Makankosappo lv3 - 723
+331: Makankosappo lv4 - 723
+332: Makankosappo lv5 - 723
+333: Makankosappo lv6 - 723
+334: Makankosappo lv7 - 723
+335: Đẻ trứng lv1 - 722
+336: Đẻ trứng lv2 - 722
+337: Đẻ trứng lv3 - 722
+338: Đẻ trứng lv4 - 722
+339: Đẻ trứng lv5 - 722
+340: Đẻ trứng lv6 - 722
+341: Đẻ trứng lv7 - 722
+342: Vệ tinh trí lực - 2265
+343: Vệ tinh trí tuệ - 2266
+344: Vệ tinh phòng thủ - 2267
+345: Vệ tinh sinh lực - 2264
+346: Cân đẩu vân - 2273
+347: Phi Long - 2277
+348: Ván bay - 2275
+349: Cân đẩu vân VIP - 2274
+350: Phi Long VIP - 2278
+351: Ván bay VIP - 2276
+352: Đậu thần cấp 8 - 241
+353: Ngọc Rồng Namek 1 Sao - 2280
+354: Ngọc Rồng Namek 2 Sao - 2281
+355: Ngọc Rồng Namek 3 Sao - 2282
+356: Ngọc Rồng Namek 4 Sao - 2283
+357: Ngọc Rồng Namek 5 Sao - 2284
+358: Ngọc Rồng Namek 6 Sao - 2285
+359: Ngọc Rồng Namek 7 Sao - 2286
+360: Ngọc Rồng Namek - 2287
+361: Gói 10 Rađa dò ngọc - 2295
+362: Hóa thạch Ngọc Rồng - 2288
+363: Tháo cờ - 2761
+364: Cờ xanh - 2330
+365: Cờ đỏ - 2323
+366: Cờ tím - 2327
+367: Cờ vàng - 2326
+368: Cờ lục - 2324
+369: Cờ hồng - 2329
+370: Cờ cam - 2328
+371: Cờ xám - 2331
+372: Ngọc rồng 1 sao đen - 2315
+373: Ngọc rồng 2 sao đen - 2316
+374: Ngọc rồng 3 sao đen - 2317
+375: Ngọc rồng 4 sao đen - 2318
+376: Ngọc rồng 5 sao đen - 2319
+377: Ngọc rồng 6 sao đen - 2320
+378: Ngọc rồng 7 sao đen - 2321
+379: Máy dò Capsule kì bí - 2758
+380: Viên Capsule kì bí - 2759
+381: Cuồng nộ - 2754
+382: Bổ huyết - 2755
+383: Bổ khí - 2756
+384: Giáp Xên bọ hung - 2757
+385: Ẩn danh - 2760
+386: Nón Noel Xám - 2782
+387: Nón Noel Đỏ - 2783
+388: Nón Noel Xanh - 2781
+389: Nón Noel Xám - 2785
+390: Nón Noel Đỏ - 2786
+391: Nón Noel Xanh - 2766
+392: Nón Noel Xám - 2788
+393: Nón Noel Đỏ - 2780
+394: Nón Noel Xanh - 2787
+395: Nhân vật bí ẩn - 2760
+396: Thú cưỡi cực VIP - 10665
+397: Hộp quà tết - 2987
+398: Hộp quà tết - 2987
+399: Thiệp chúc tết - 2988
+400: Đặt tên đệ tử - 2989
+401: Đổi đệ tử - 737
+402: Nâng kỹ năng 1 đệ tử - 7098
+403: Nâng kỹ năng 2 đệ tử - 7099
+404: Nâng kỹ năng 3 đệ tử - 7100
+405: Cải trang Fide cấp 1 - 2026
+406: Cải trang Fide cấp 2 - 2057
+407: Cải trang Fide cấp 3 - 2088
+408: Cải trang Chi Chi - 3047
+409: Cải trang Bum ma - 3045
+410: Cải trang Lý Tiểu Nương - 3014
+411: Cải trang Póc - 2467
+412: Avatar - 19
+413: Avatar - 266
+414: Avatar - 268
+415: Avatar - 121
+416: Avatar - 263
+417: Avatar - 271
+418: Avatar - 91
+419: Avatar - 259
+420: Avatar - 261
+421: Cải trang Sơn Tinh - 3099
+422: Cải trang Thủy Tinh - 3069
+423: Cải trang Bujin - 3390
+424: Cải trang Kogu - 3245
+425: Cải trang Zangya - 9837
+426: Cải trang Bido - 3310
+427: Cải trang Bojack - 3183
+428: Cải trang Super Bojack - 3215
+429: Cải trang Số 4 - 1871
+430: Cải trang Số 3 - 2123
+431: Cải trang Số 2 - 2124
+432: Cải trang Số 1 - 1964
+433: Cải trang Tiểu Đội Trưởng Ginyu - 1995
+434: Bản Năng Vô Cực lv1 - 3784
+435: Bản Năng Vô Cực lv2 - 3784
+436: Bản Năng Vô Cực lv3 - 3784
+437: Bản Năng Vô Cực lv4 - 3784
+438: Bản Năng Vô Cực lv5 - 3784
+439: Bản Năng Vô Cực lv6 - 3784
+440: Bản Năng Vô Cực lv7 - 3784
+441: Sao pha lê - 3887
+442: Sao pha lê - 3888
+443: Sao pha lê - 3889
+444: Sao pha lê - 3890
+445: Sao pha lê - 3891
+446: Sao pha lê - 3892
+447: Sao pha lê - 3893
+448: Cải trang Đracula - 3496
+449: Cải trang Vô Hình - 3745
+450: Cải trang Bông Băng - 3469
+451: Cải trang Vua Quỷ Satan - 3407
+452: Cải trang Thỏ Đầu Bạc - 3438
+453: Chiến thuyền Tennis - 3894
+454: Bông tai Porata - 3896
+455: Cải trang Ở dơ - 3995
+456: Bình nước - 4029
+457: Thỏi vàng - 4028
+458: Cải trang Xinbatô - 3558
+459: Phiếu giảm giá - 4030
+460: Cục xương - 4032
+461: Cải trang Sói hẹc quyn - 3933
+462: Củ cà rốt - 4083
+463: Cải trang Thỏ đại ca - 4044
+464: Cải trang Thỏ Bunma - 4116
+465: Bánh Trung Thu 1 trứng - 4042
+466: Bánh Trung Thu 2 trứng - 4043
+467: Lồng đèn Ông Sao - 4124
+468: Lồng đèn Cá chép - 4122
+469: Lồng đèn Kéo Quân - 4121
+470: Lồng đèn Ông trăng - 4123
+471: Lồng đèn Hội An - 4120
+472: Bánh Trung Thu Đặc Biệt - 4125
+473: Hộp bánh Trung Thu - 4126
+474: Sách Biến Sôcôla lv1 - 3780
+475: Sách Biến Sôcôla lv2 - 3780
+476: Sách Biến Sôcôla lv3 - 3780
+477: Sách Biến Sôcôla lv4 - 3780
+478: Sách Biến Sôcôla lv5 - 3780
+479: Sách Biến Sôcôla lv6 - 3780
+480: Sách Biến Sôcôla lv7 - 3780
+481: Sách Liên hoàn lv1 - 3778
+482: Sách Liên hoàn lv2 - 3778
+483: Sách Liên hoàn lv3 - 3778
+484: Sách Liên hoàn lv4 - 3778
+485: Sách Liên hoàn lv5 - 3778
+486: Sách Liên hoàn lv6 - 3778
+487: Sách Liên hoàn lv7 - 3778
+488: Sách Dịch Chuyển lv1 - 3783
+489: Sách Dịch Chuyển lv2 - 3783
+490: Sách Dịch Chuyển lv3 - 3783
+491: Sách Dịch Chuyển lv4 - 3783
+492: Sách Dịch Chuyển lv5 - 3783
+493: Sách Dịch Chuyển lv6 - 3783
+494: Sách Dịch Chuyển lv7 - 3783
+495: Sách Thôi Miên lv1 - 3782
+496: Sách Thôi Miên lv2 - 3782
+497: Sách Thôi Miên lv3 - 3782
+498: Sách Thôi Miên lv4 - 3782
+499: Sách Thôi Miên lv5 - 3782
+500: Sách Thôi Miên lv6 - 3782
+501: Sách Thôi Miên lv7 - 3782
+502: Sách Trói lv1 - 3779
+503: Sách Trói lv2 - 3779
+504: Sách Trói lv3 - 3779
+505: Sách Trói lv4 - 3779
+506: Sách Trói lv5 - 3779
+507: Sách Trói lv6 - 3779
+508: Sách Trói lv7 - 3779
+509: Sách Huýt Sáo lv1 - 3781
+510: Sách Huýt Sáo lv2 - 3781
+511: Sách Huýt Sáo lv3 - 3781
+512: Sách Huýt Sáo lv4 - 3781
+513: Sách Huýt Sáo lv5 - 3781
+514: Sách Huýt Sáo lv6 - 3781
+515: Sách Huýt Sáo lv7 - 3781
+516: Sôcôla - 4133
+517: Mở rộng hành trang - 4340
+518: Mở rộng rương đồ - 265
+519: Cờ Kaiô - 4386
+520: Cờ Mabư - 4385
+521: Tự động luyện tập - 4387
+522: Bùa Đệ Tử - 1403
+523: Đậu thần cấp 9 - 241
+524: Cải trang Android 19 - 2560
+525: Cải trang Android 20 - 9836
+526: Cải trang Cell Bọ Hung 1 - 2345
+527: Cải trang Cell Bọ Hung 2 - 2376
+528: Cải trang Cell Hoàn Thiện - 2407
+529: Giáp tập luyện - 4429
+530: Giáp tập luyện - 4430
+531: Giáp tập luyện - 4431
+532: Quỷ Chim - 4433
+533: Kẹo giáng sinh - 4432
+534: Giáp tập luyện - 4429
+535: Giáp tập luyện - 4430
+536: Giáp tập luyện - 4431
+537: Chữ giải - 1403
+538: Chữ khai - 1404
+539: Chữ phong - 1407
+540: Chữ ấn - 1406
+541: Quả Hồng Đào - 4547
+542: Quả Hồng Đào Chín - 4547
+543: Vòng Kim Cô - 4546
+544: Cải trang Tôn Ngộ Không - 4543
+545: Cải trang Tôn Ngộ Không - 4464
+546: Cải trang Tôn Ngộ Không - 4466
+547: Cải trang Tôn Ngộ Không (Đệ tử) - 4468
+548: Cải trang Bát Giới (Đệ tử) - 4498
+549: Cải trang Cell Con nè - 2715
+550: Cải trang Android 13 - 2592
+551: Cải trang Android 14 - 2529
+552: Cải trang Android 15 - 2684
+553: Pháo bông - 4548
+554: Siêu Pháo bông x100 - 4548
+555: Áo Thần Linh - 4647
+556: Quần Thần Linh - 4648
+557: Áo Thần Namếc - 4657
+558: Quần Thần namếc - 4658
+559: Áo Thần Xayda - 4652
+560: Quần Thần Xayda - 4654
+561: Nhẫn Thần Linh - 6314
+562: Găng Thần Linh - 4650
+563: Giầy Thần Linh - 4649
+564: Găng Thần Namếc - 4659
+565: Giầy Thần Namếc - 4660
+566: Găng Thần Xayda - 4656
+567: Giầy Thần Xayda - 4655
+568: Quả Trứng - 2164
+569: Dưa Hấu - 4671
+570: Rương Gỗ - 265
+571: Rương Bạc - 5006
+572: Rương Vàng - 5007
+573: Capsule Bạc - 5005
+574: Capsule Vàng - 5004
+575: Cải trang Bui Bui - 4354
+576: Cải trang Yacôn - 4135
+577: Cải trang Drabura - 4165
+578: Cải trang Mabư mập - 2957
+579: Đuôi khỉ - 5072
+580: Cải trang Chi Chi - 3047
+581: Cải trang Bum ma - 3045
+582: Cải trang Lý Tiểu Nương - 3014
+583: Cải trang Android sát thủ - 2467
+584: Cải trang Thỏ Bunma - 4116
+585: Bí ngô - 5138
+586: Cải trang Bông Băng - 3469
+587: Cải trang Vua Quỷ Satan - 3407
+588: Cải trang Đracula - 3496
+589: Bông hoa - 5206
+590: Bí kiếp - 5207
+591: Cải trang Siêu Thần Xayda - 5087
+592: Cải trang Yardrat - 5211
+593: Cải trang Yardrat - 5211
+594: Cải trang Yardrat - 5211
+595: Đậu thần cấp 10 - 241
+596: Gói 30 đậu thần cấp 8 - 241
+597: Gói 30 đậu thần cấp 9 - 241
+598: Avatar - 5235
+599: Avatar - 5233
+600: Avatar - 5237
+601: Cải trang Hợp Thể - 5273
+602: Cải trang Hợp Thể - 5306
+603: Cải trang Hợp Thể - 5242
+604: Cải trang VIP - 5304
+605: Cải trang VIP - 5075
+606: Cải trang VIP - 5079
+607: Cải trang Chan Xư - 3682
+608: Cải trang Lão Cận - 3964
+609: Cải trang Xayda - 4938
+610: Bông hoa - 5206
+611: Bản đồ kho báu - 5428
+612: Cải trang Arale - 5344
+613: Cải trang Gatchan - 5403
+614: Cải trang Obotchaman - 5372
+615: Cải trang Số 1 - 1964
+616: Cải trang Số 4 - 1871
+617: Cải trang Tiểu Đội Trưởng Ginyu - 1995
+618: Cải trang Luffy - 5432
+619: Cải trang Zoro - 5465
+620: Cải trang Sanji - 5495
+621: Cải trang Brook - 5526
+622: Cải trang Chopper - 5680
+623: Cải trang Nami - 5617
+624: Cải trang Franky - 5556
+625: Cải trang Usopp - 5587
+626: Cải trang Robin - 5649
+627: Capsule quà tặng - 2759
+628: Cải trang Hải Tặc - 5721
+629: Cải trang Fide vàng - 4812
+630: Cải trang Frost 1 - 4719
+631: Cải trang Frost 2 - 4750
+632: Cải trang Frost 3 - 4781
+633: Cải trang Android sát thủ - 1348
+634: Cải trang Android sát thủ - 2498
+635: Cải trang Pi láp - 5827
+636: Cải trang Mai - 5758
+637: Cải trang Su - 5789
+638: Bình chứa Commeson - 5829
+639: Cải trang Hợp Thể - 5834
+640: Cải trang Hợp Thể - 5865
+641: Cải trang Hợp Thể - 5898
+642: Cải trang ma trơi - 6091
+643: Cải trang dơi nhí - 6094
+644: Cải trang bộ xương - 5101
+645: Cải trang bộ xương - 5105
+646: Cải trang bộ xương - 5103
+647: Cải trang Saibamen - 5995
+648: Hộp quà giáng sinh - 6123
+649: Tất,vớ giáng sinh - 6122
+650: Áo Hủy Diệt - 6315
+651: Quần Hủy Diệt - 6316
+652: Áo Hủy Diệt - 6320
+653: Quần Hủy Diệt - 6321
+654: Áo Hủy Diệt - 6310
+655: Quần Hủy Diệt - 6311
+656: Nhẫn Hủy Diệt - 6323
+657: Găng Hủy Diệt - 6318
+658: Giầy Hủy Diệt - 6317
+659: Găng Hủy Diệt - 6318
+660: Giầy Hủy Diệt - 6322
+661: Găng Hủy Diệt - 6318
+662: Giầy Hủy Diệt - 6312
+663: Bánh Pudding - 6324
+664: Xúc xích - 6325
+665: Kem dâu - 6326
+666: Mì ly - 6327
+667: Sushi - 6328
+668: Hộp quà Tết 2019 - 2987
+669: Dưa Hấu - 1040
+670: Cà rốt - 4083
+671: Bùa Trí Tuệ x3 - 1406
+672: Bùa Trí Tuệ x4 - 1407
+673: abcd - 5820
+674: Đá ngũ sắc - 6467
+675: Cải trang Sarahs Mother - 6473
+676: Cải trang Sarah - 6369
+677: Cải trang Pan - 6470
+678: Cải trang Android 21 - 6400
+679: Cải trang Muscular Lady - 6338
+680: Cải trang Caulifla - 6431
+681: Cải trang Nàng Tiên Cá - 6329
+682: Avatar - 1350
+683: Avatar - 1352
+684: Avatar - 1354
+685: Avatar - 1330
+686: Avatar - 1334
+687: Avatar - 1344
+688: Avatar - 1342
+689: Avatar - 1346
+690: Avatar - 1348
+691: Quần đi biển - 6569
+692: Quần đi biển - 6569
+693: Quần đi biển - 6569
+694: Trái dừa - 6574
+695: Ốc biển - 6570
+696: Cua biển - 6571
+697: Vỏ sò - 6573
+698: Sao biển - 6572
+699: HP +400K - 2755
+700: Sức đánh +20K - 2754
+701: KI +400K - 2756
+702: Bí ngô 1 sao - 6579
+703: Bí ngô 2 sao - 6580
+704: Bí ngô 3 sao - 6581
+705: Bí ngô 4 sao - 6582
+706: Bí ngô 5 sao - 6583
+707: Bí ngô 6 sao - 6584
+708: Bí ngô 7 sao - 6585
+709: Bông hoa - 5206
+710: Cải trang Quy lão Kamê - 5175
+711: Cải trang Jacky Chun - 3527
+712: Truy - 1409
+713: Bắt - 1407
+714: Đại - 1406
+715: Vương - 1405
+716: Urôn - 1404
+717: Bao Lì Xì - 6764
+718: Vé tặng ngọc - 6765
+719: Cải trang Urôn - 6734
+720: Mảnh cải trang - 6777
+721: Phiếu giảm giá VIP - 4030
+722: Capsule hồng - 6782
+723: Bông hồng đỏ - 5206
+724: Cải trang Chi Chi - 6783
+725: Siêu thần thủy - 6848
+726: Mảnh giấy có chữ 'MA' - 6847
+727: Siêu thần thủy - 6849
+728: Siêu thần thủy - 6850
+729: Cải trang Hatchiyack - 5963
+730: Cải trang Sói Basil - 6914
+731: Cải trang Sói Lavender - 6917
+732: Cải trang Sói Bergamo - 6949
+733: Cân đẩu vân ngũ sắc - 6980
+734: Ngọc Thố - 6981
+735: Lồng đèn cá chép - 6982
+736: Hộp quà 5 sao - 6983
+737: Capsule Trung Thu - 6984
+738: Cải trang Dr Lychee - 6852
+739: Cải trang Bill Bí Ngô - 6985
+740: Lưỡi hái Thần Chết - 7019
+741: Cánh dơi Dracula - 7022
+742: Cải trang Caufila Dơi - 7023
+743: Chổi bay Phù Thủy - 7056
+744: Cột nhà - 7063
+745: Bông tuyết - 7066
+746: Xe tuần lộc - 7067
+747: Cờ xanh dương - 2325
+748: Thịt heo - 7068
+749: Thúng nếp - 7069
+750: Thúng đậu xanh - 7070
+751: Lá dong - 7071
+752: Bánh tét - 7079
+753: Bánh chưng - 7080
+754: Nón Chuột may mắn - 7085
+755: Nón Chuột may mắn - 7091
+756: Nón Chuột may mắn - 7088
+757: Túi Canh Tý 2020 - 7097
+758: Capsule Tết 2023 - 5004
+759: Nâng kỹ năng 4 đệ tử - 7101
+760: Cải trang VIP - 7102
+761: Avatar đeo khẩu trang - 7134
+762: Avatar đeo khẩu trang - 7140
+763: Avatar đeo khẩu trang - 7137
+764: Khẩu trang - 7149
+765: Cải trang Gohan Bư - 4261
+766: Cờ xám - 1027
+767: Cờ đen - 1026
+768: Cờ xanh lá - 1033
+769: Cờ xanh biển - 1032
+770: Cờ hồng - 1028
+771: Cờ cam - 1029
+772: Cờ vàng - 1031
+773: Cờ tím - 1030
+774: Cờ xanh dạ - 1025
+775: Cờ đỏ - 1034
+776: Khăn xanh lá - 1063
+777: Khăn xanh dương - 1064
+778: Khăn vàng - 1065
+779: Khăn tím - 1066
+780: Khăn nâu - 1067
+781: Khăn xám - 1070
+782: Khăn đỏ - 1072
+783: Khăn hồng - 1068
+784: Khăn xanh dạ - 1069
+785: Ba lô - 1038
+786: Đao - 1044
+787: Gậy - 1039
+788: Mai rùa - 1035
+789: Giỏ bơ - 1043
+790: Giỏ dưa hấu - 1040
+791: Giỏ củ cải trắng - 1036
+792: Giỏ cà rốt - 1037
+793: Giỏ chuối - 1042
+794: Gậy phép - 1084
+795: Ghế bay - 7221
+796: Hộp Capsule - 7222
+797: Bùa Trí Tuệ - 1403
+798: Bùa Mạnh Mẽ - 1404
+799: Bùa Da Trâu - 1405
+800: Lồng đèn Cô Vy - 7226
+801: Lồng đèn Con tàu - 7227
+802: Lồng đèn Con gà - 7230
+803: Lồng đèn Con bướm - 7233
+804: Lồng đèn Đôrêmon - 7236
+805: Vòng sáng thiên thần - 7334
+806: Cải trang Đôrêmon - 7189
+807: Ngọc đen 1 sao - 7337
+808: Ngọc đen 2 sao - 7338
+809: Ngọc đen 3 sao - 7339
+810: Ngọc đen 4 sao - 7340
+811: Ngọc đen 5 sao - 7341
+812: Ngọc đen 6 sao - 7342
+813: Ngọc đen 7 sao - 7343
+814: Ma trơi - 7352
+815: Hồn ma Goku - 7353
+816: Hồn ma Ca đíc - 7354
+817: Hồn ma Pôcôlô - 7355
+818: Capsule Halloween - 7356
+819: Cải trang Xuka - 7357
+820: Vé quay ngọc đen - 7389
+821: Vé quay ngọc vàng - 7390
+822: Cây thông - 7395
+823: Túi quà - 7396
+824: Cải trang Noel - 7426
+825: Cải trang Noel - 7430
+826: Cải trang Noel - 7428
+827: Cải trang Noel - 7435
+828: Mảnh Khủng long - 7467
+829: Mảnh Lợn lòi - 7468
+830: Mảnh Quỷ đất - 7469
+831: Mảnh Khủng long mẹ - 7470
+832: Mảnh Lợn lòi mẹ - 7471
+833: Mảnh Quỷ đất mẹ - 7472
+834: Mảnh Thằn lằn bay - 7473
+835: Mảnh Phi long - 7474
+836: Mảnh Quỷ bay - 7475
+837: Mảnh Lính độc nhãn - 7476
+838: Mảnh Lính độc nhãn - 7477
+839: Mảnh Sói xám - 7478
+840: Mảnh Trung úy Trắng - 7480
+841: Mảnh Ninja Áo Tím - 7481
+842: Mảnh Trung úy Xanh Lơ - 7479
+843: Cải trang Trâu vàng - 7489
+844: Cải trang Trâu đen - 7551
+845: Cải trang Trâu trắng - 7520
+846: Nón Trâu may mắn - 7585
+847: Nón Trâu may mắn - 7589
+848: Nón Trâu may mắn - 7587
+849: Pháo Thăng Thiên - 4548
+850: Cỏ tươi - 7594
+851: Cỏ tươi - 7594
+852: Cây trúc - 7597
+853: Cải trang Trâu Nâu - 7641
+854: Cải trang Trâu Nâu - 7645
+855: Cải trang Trâu Nâu - 7643
+856: Cải trang Trâu Đốm - 7600
+857: Cải trang Trâu Đốm - 7604
+858: Cải trang Trâu Đốm - 7602
+859: Mảnh Độc Nhãn - 1568
+860: Cải trang Mị Nương - 9631
+861: Hồng ngọc - 7743
+862: Cải trang Nobita - 7744
+863: Cải trang Xekô - 7808
+864: Cải trang Chaien - 7776
+865: Kiếm Z - 7842
+866: Avatar - 7847
+867: Avatar - 7846
+868: Avatar - 7843
+869: Capsule 1 sao - 7852
+870: Capsule 2 sao - 7853
+871: Capsule 3 sao - 7854
+872: Avatar Gohan 1 - 7855
+873: Avatar Gohan 2 - 7858
+874: Rùa con - 7861
+875: Cải trang Cadic - 7862
+876: Cải trang Gohan - 7894
+877: Cải trang Pocolo - 7926
+878: Cải trang Cooler vàng - 6587
+879: Cải trang Thống Chế Kilo - 6618
+880: Cua rang me - 8060
+881: Bạch tuộc nướng - 8061
+882: Tôm tẩm bột chiên xù - 8062
+883: Cải trang Black Gohan Rose - 8095
+884: Cải trang Hit - 4969
+885: Cải trang Lích Tên - 8147
+886: Trứng vịt muối - 8130
+887: Thịt gà - 8129
+888: Bột mì - 7069
+889: Đậu xanh - 7070
+890: Bánh trung thu Gà quay - 8132
+891: Bánh trung thu thập cẩm - 8131
+892: Thỏ xám - 8139
+893: Thỏ trắng - 8146
+894: Avatar - 8201
+895: Avatar - 8205
+896: Avatar - 8203
+897: Rùa bay - 8210
+898: Cải trang Zamasu - 8211
+899: Kẹo một mắt - 8243
+900: Súp bí hắc ám - 8244
+901: Kẹo bàn tay - 8245
+902: Bánh gato nhện - 8246
+903: Hamburger sâu - 8247
+904: Cải trang Black Goku SSJ White - 8248
+905: Cải trang Siêu Thần Trái Đất - 8283
+906: Cải trang Mighty Mask - 8251
+907: Cải trang Siêu thần Namếc - 8315
+908: Ma phong ba - 8185
+909: Thần chết cute - 8200
+910: Bí ngô nhí nhảnh - 8192
+911: Cải trang Siêu Thần Xayda - 5087
+912: Cải trang Gohan áo xanh - 8347
+913: Cải trang Póc áo đỏ - 8379
+914: Cải trang Búp bê Arale - 8411
+915: Capsule Squid Game - 8443
+916: Lính bảo vệ tam giác - 8446
+917: Lính bảo vệ vuông - 8445
+918: Lính bảo vệ tròn - 8444
+919: Búp bê - 8472
+920: Gậy như ý - 8482
+921: Bông tai Porata - 7993
+922: Cải trang Goku Noel - 8483
+923: Cải trang Pico Noel - 8545
+924: Cải trang Ca đíc Noel - 8514
+925: Ngọc rồng băng 1 sao - 8579
+926: Ngọc rồng băng 2 sao - 8580
+927: Ngọc rồng băng 3 sao - 8581
+928: Ngọc rồng băng 4 sao - 8582
+929: Ngọc rồng băng 5 sao - 8583
+930: Ngọc rồng băng 6 sao - 8584
+931: Ngọc rồng băng 7 sao - 8585
+932: Cải trang Uub (Đệ tử) - 8586
+933: Mảnh vỡ bông tai - 8618
+934: Mảnh hồn bông tai - 8619
+935: Đá xanh lam - 8620
+936: Tuần lộc nhí - 8652
+937: Cải trang Mabư Noel - 8621
+938: Cải trang Goku thời trang - 8662
+939: Cải trang Pôcôlô thời trang - 8724
+940: Cải trang Ca Đíc thời trang - 8693
+941: Nón Hổ vàng - 8758
+942: Hổ mặp vàng - 8768
+943: Hổ mặp trắng - 8776
+944: Hổ mặp xanh - 8784
+945: Cải trang Goku Tarzan - 8785
+946: Nón Hổ trắng - 8818
+947: Nón Hổ xanh - 8824
+948: Cải trang Hổ vàng - 8828
+949: Thịt Heo - 7068
+950: Thịt tươi - 7068
+951: Cải trang Siêu Goku Tarzan - 8924
+952: Cải trang Hổ trắng - 8860
+953: Cải trang Hổ xanh - 8891
+954: Bó Hoa Hồng - 8933
+955: Bó Hoa Vàng - 8934
+956: Mảnh Đội trưởng Vàng - 8935
+957: Cải trang Goku võ sĩ - 8939
+958: Cải trang Pôcôlô võ sĩ - 9001
+959: Cải trang Cađíc võ sĩ - 8970
+960: Cờ trắng - 9066
+961: Cờ đen - 9065
+962: Capsule thời trang 5 ngày - 9109
+963: Capsule thời trang 7 ngày - 9109
+964: Sao pha lê - 9176
+965: Sao pha lê - 9175
+966: Trái bóng - 9396
+967: Sao la - 9372
+968: Số 7 Goku - 9383
+969: Số 11 Gohan - 9387
+970: Số 6 Cađíc - 9385
+971: Số 2 Krilin - 9208
+972: Số 4 Thên Xin Hăng - 9326
+973: Số 10 Pôcôlô - 9207
+974: Số 1 Mabư - 9389
+975: Số 8 Biden - 9390
+976: Số 9 Quy lão Kamê - 9395
+977: Số 3 Poc - 9393
+978: Số 5 Pic - 9358
+979: Huy chương đồng - 9397
+980: Huy chương bạc - 9398
+981: Huy chương vàng - 9399
+982: Cúp vàng - 9402
+983: Cờ cổ động - 9403
+984: Capsule SEA games - 9109
+985: Cải trang Chill - 9405
+986: Cải trang Chill cấp 2 - 9142
+987: Đá bảo vệ - 9406
+988: Mở rộng túi vàng - 9432
+989: Cải trang Gohan Siêu Nhân - 9407
+990: Cải trang Biđen Siêu Nhân - 9433
+991: Cải trang Bản Cô Nương Siêu Nhân - 9458
+992: Nhẫn thời không sai lệch - 9067
+993: Giỏ thức ăn - 9489
+994: Vỏ ốc - 9602
+995: Cây kem - 9605
+996: Cá heo - 9608
+997: Con diều - 9611
+998: Diều rồng - 9614
+999: Mèo mun - 9624
+1000: Xiên cá - 9627
+1001: Phóng lợn - 9630
+1002: Cá nóc - 9595
+1003: Cá bảy màu - 9596
+1004: Cá diêu hồng - 9597
+1005: Xô cá xanh - 9598
+1006: Xô cá vàng - 9599
+1007: Ván lướt sóng - 9594
+1008: Cua đỏ - 9621
+1009: Rương Tranh ngọc Namếc - 5007
+1010: Cải trang Áo vịt cam - 9497
+1011: Cải trang Áo trắng hoa - 9528
+1012: Cải trang Nón rơm mùa hè - 9556
+1013: Kiếm ánh sáng - 9649
+1014: Rađa dò ngọc Namếc - 9651
+1015: Ngọc rồng Siêu Cấp - 9650
+1016: Thuốc mỡ Ipana - 9068
+1017: Thuốc mỡ Ipana đặc biệt - 9068
+1018: Cải trang Broly - 9718
+1019: Cải trang Broly - 9780
+1020: Cải trang Broly - 9749
+1021: Búa Mjolnir - 9815
+1022: Búa Stormbreaker - 9814
+1023: Quạt ba tiêu - 9816
+1024: Gậy như ý - 9704
+1025: Bồ cào - 9706
+1026: Nguyệt nha sản - 9707
+1027: Quyền trượng - 9705
+1028: Dao răng cưa - 9708
+1029: Lọ nước phép - 9838
+1030: Cờ Hoa đăng - 9843
+1031: Cờ Hoa sen - 9844
+1032: Giấy màu - 9846
+1033: Lời chúc - 9847
+1034: Nến - 9848
+1035: Khung tre - 9845
+1036: Pháo hoa - 9849
+1037: Hoa đăng - 9850
+1038: Hoa đăng có lời chúc - 9851
+1039: Pet Thỏ ốm - 9973
+1040: Pet Thỏ mập - 9974
+1041: Thỏ hồng Bun ma - 9975
+1042: Thỏ đỏ Chi Chi - 9976
+1043: Thỏ đen Android 18 - 9977
+1044: Cửu Âm Chân Kinh - 1092
+1045: Đuôi khỉ - 5072
+1046: Pet Khỉ Bong Bóng - 9978
+1047: Lồng đèn lon - 9972
+1048: Áo Thiên Sứ - 10165
+1049: Áo Thiên Sứ - 10185
+1050: Áo Thiên Sứ - 10175
+1051: Quần Thiên Sứ - 10166
+1052: Quần Thiên Sứ - 10186
+1053: Quần Thiên Sứ - 10176
+1054: Găng Thiên Sứ - 10168
+1055: Găng Thiên Sứ - 10188
+1056: Găng Thiên Sứ - 10178
+1057: Giầy Thiên Sứ - 10167
+1058: Giầy Thiên Sứ - 10187
+1059: Giầy Thiên Sứ - 10177
+1060: Nhẫn Thiên Sứ - 10169
+1061: Nhẫn Thiên Sứ - 10189
+1062: Nhẫn Thiên Sứ - 10179
+1063: Avatar Thiên Sứ - 9979
+1064: Avatar Thiên Sứ - 10099
+1065: Avatar Thiên Sứ - 10039
+1066: Mảnh áo - 10197
+1067: Mảnh quần - 10198
+1068: Mảnh giầy - 10199
+1069: Mảnh nhẫn - 10201
+1070: Mảnh găng tay - 10200
+1071: Công thức - 10210
+1072: Công thức - 10212
+1073: Công thức - 10211
+1074: Đá nâng cấp cấp 1 - 10202
+1075: Đá nâng cấp cấp 2 - 10203
+1076: Đá nâng cấp cấp 3 - 10204
+1077: Đá nâng cấp cấp 4 - 10205
+1078: Đá nâng cấp cấp 5 - 10195
+1079: Đá may mắn cấp 1 - 10206
+1080: Đá may mắn cấp 2 - 10207
+1081: Đá may mắn cấp 3 - 10208
+1082: Đá may mắn cấp 4 - 10209
+1083: Đá may mắn cấp 5 - 10196
+1084: Công thức VIP - 10213
+1085: Công thức VIP - 10215
+1086: Công thức VIP - 10214
+1087: Cải trang Tanjiro - 10216
+1088: Cải trang Inosuke Hashibira - 10247
+1089: Cải trang Inosuke - 10342
+1090: Cải trang Zenitsu - 10278
+1091: Cải trang Nezuko - 10311
+1092: Gậy Quy Lão - 10485
+1093: Đất trồng cây - 10478
+1094: Phân bón - 10479
+1095: Hạt mầm - 10480
+1096: Thuốc tăng trưởng - 10481
+1097: Chậu sứ - 10483
+1098: Hoa hồng xanh - 10482
+1099: Chậu hoa hồng xanh - 10484
+1100: Chậu hoa ăn thịt - 10486
+1101: Lời chúc - 10489
+1102: Lời chúc VIP - 10490
+1103: Cải trang Marron - 10440
+1104: Cải trang Poc satan - 10491
+1105: Cải trang Bun ma phù thủy - 10522
+1106: Cải trang Biden dracula - 10553
+1107: Pet Bí Ma Vương - 10589
+1108: Đinh ba Satan - 10600
+1109: Chổi phù thủy - 10601
+1110: Cánh thiên thần - 10602
+1111: Cánh thiên thần 2 - 10603
+1112: Cây nắp ấm - 10614
+1113: Cá Chà Bá - 10617
+1114: Pet Ma vàng phù thủy - 10597
+1115: Máy dò Ngọc rồng sự kiện - 434
+1116: Hòm Halloween - 10626
+1117: Thiệp Halloween - 10627
+1118: W - 10628
+1119: O - 10629
+1120: R - 10630
+1121: L - 10631
+1122: D - 10632
+1123: C - 10633
+1124: U - 10634
+1125: P - 10635
+1126: 20 - 10636
+1127: 22 - 10637
+1128: Cờ logo Quatar 1 - 10638
+1129: Cờ logo Quatar 2 - 10639
+1130: Cờ giày vàng - 10640
+1131: Quả bóng siêu việt - 10664
+1132: Fan cuồng bóng đá - 10667
+1133: Fan gà nửa mùa - 10666
+1134: Thiệp World Cup - 10668
+1135: Capsule World Cup - 10678
+1136: Capsule World Cup VIP - 10679
+1137: Cờ GOAL - 10641
+1138: Cờ FIFA - 10642
+1139: Quả Bóng Vàng - 10643
+1140: Mèo mun đột biến - 10697
+1141: Phiếu giảm giá Black Friday - 4030
+1142: Bong bóng heo - 10706
+1143: Đá bảo vệ (Khóa) - 9406
+1144: Phượng hoàng lửa - 10710
+1145: Cải trang Black Goku SSJ 3 White - 10711
+1146: Avatar Gohan White - 10686
+1147: Avatar Gohan White - 10686
+1148: Avatar Gohan White - 10707
+1149: Cánh thiên sứ hắc ám - 10694
+1150: Cuồng nộ 2 - 10716
+1151: Bổ khí 2 - 10715
+1152: Bổ huyết 2 - 10714
+1153: Giáp Xên bọ hung 2 - 10712
+1154: Ẩn danh 2 - 10717
+1155: Noel 2022 Goku - 10718
+1156: Noel 2022 Cađíc - 10749
+1157: Noel 2022 Pôcôlô - 10780
+1158: Chú lùn - 10840
+1159: Chú lùn - 10841
+1160: Chú lùn - 10842
+1161: Chú lùn - 10843
+1162: Chú lùn - 10844
+1163: Chú lùn - 10845
+1164: Chú lùn - 10846
+1165: Chuông đồng - 10847
+1166: Cá tuyết - 10848
+1167: Bánh quy - 10849
+1168: Kẹo đường - 10850
+1169: Kẹo người tuyết - 10851
+1170: Gói quà - 10852
+1171: Túi 7 chú lùn - 10853
+1172: Xe heo tuần lộc - 10855
+1173: Rương Mảnh Thiên Sứ - 10854
+1174: Kimono - 10915
+1175: Kimono - 10973
+1176: Kimono - 10944
+1177: Mãng cầu - 10884
+1178: Quả dừa - 10885
+1179: Đu đủ - 10886
+1180: Quả xoài - 10887
+1181: Trái sung - 10888
+1182: Mâm ngũ quả - 10889
+1183: Bao lì xì mèo - 11005
+1184: Gói quà đặc biệt - 10892
+1185: Cành mai - 10899
+1186: Cành đào - 10903
+1187: Hộp quà Trung thu - 11006
+1188: Pet mèo đen đuôi vàng - 10877
+1189: Xúc xích xông khói - 10890
+1190: Dĩa thức ăn cho mèo - 10891
+1191: Thiệp chúc tết - 10893
+1192: Thiệp chúc tết - 10894
+1193: Thiệp chúc tết - 10895
+1194: Phiếu bé ngoan - 11007
+1195: Xí muội Hoa đào - 10905
+1196: Xí muội Hoa mai - 10904
+1197: Bóng Vịt Vàng - 10876
+1198: Nón mèo - 10910
+1199: Nón mèo - 10914
+1200: Nón mèo - 10912
+1201: Cải trang Karin Kid Lân - 11008
+1202: Pet mèo trắng đuôi vàng - 11040
+1203: Pet mèo trắng đuôi vàng - 11040
+1204: Mảnh Rồng thần Namếc - 11048
+1205: Cải trang Drabura Frost - 11053
+1206: Trái tim Valentine - 11047
+1207: Pet Minion - 9709
+1208: Bunma tóc xanh neon - 11153
+1209: Bunma tóc nâu băng đô - 11157
+1210: Bunma tóc tím thắt bím - 11161
+1211: Quỳ Hoa Bảo Điển - 1099
+1212: Tịch Tà Kiếm Phổ - 1041
+1213: Pet mèo Hoàng Thượng - 11163
+1214: Cơm nếp - 11195
+1215: Ván cơm nếp - 11196
+1216: Tệp cơm nếp - 11197
+1217: Lá dong - 11198
+1218: Sợi Cói - 11199
+1219: Tệp bánh chưng - 11200
+1220: Ngà voi - 11203
+1221: Cựa gà - 11204
+1222: Hồng mao - 11205
+1223: Pet khí Gas - 11216
+1224: Pet Voi Chín Ngà - 11232
+1225: Pet Gà Chín Cựa - 11233
+1226: Pet Ngựa Chín Hồng mao - 11234
+1227: Hộp quà thường - 11201
+1228: Hộp quà cao cấp - 11202
+1229: Bí kíp tuyệt kỹ - 11238
+1230: Hào Quang nhân vật chính - 17549
+1231: Gậy thượng đế - 11245
+1232: Bình chứa nhỏ - 11192
+1233: Nồi cơm điện - 11173
+1234: Cải trang Pic Thợ Lặn 2023 - 11293
+1235: Cải trang Poc Bikini 2023 - 11259
+1236: Cải trang King Kong Sành Điệu 2023 - 11325
+1237: Cành khô - 11246
+1238: Nước Suối Tinh Khiết - 11247
+1239: Gỗ Lớn - 11248
+1240: Que đốt - 11249
+1241: Bồn tắm gỗ - 11250
+1242: Bồn tắm vàng - 11251
+1243: Pet bọ cánh cứng - 11371
+1244: Pet ngài đêm - 11372
+1245: Bọ Kiến Vương Hai Sừng - 11252
+1246: Bọ Hung Tê Giác - 11253
+1247: Bọ Kẹp Kìm - 11254
+1248: Bọ Cánh Cứng - 11255
+1249: Ngài Đêm - 11256
+1250: Hũ Mật Ong - 11257
+1251: Vợt Bắt Bọ - 11258
+1252: Ve Sầu Xên - 17558
+1253: Ve Sầu Xên Tiến Hóa - 17559
+1254: Cờ Tổ Quốc Việt Nam - 14754
+1255: Cải trang Cumber Gold - 16602
+1256: Đá sáng tạo - 16999
+1257: Thú cưỡi Rồng Thiêng - 11332
+1258: Thú cưỡi Rùa con - 11333
+1259: Cờ Giải Phóng Mặt Trận Miền Nam - 14753
+1260: Zamasu kinh dị - 11334
+1261: Zamasu Rose kinh dị - 11366
+1262: Broly chiến tướng - 11269
+1263: Broly chiến thần - 11293
+1264: Goku Baby SSJ4 - 11330
+1265: Cánh cấp 6 - 11435
+1266: Cánh cấp 7 - 11441
+1267: Ngọc Rồng Siêu Thần 1 sao - 11540
+1268: Ngọc Rồng Siêu Thần 2 sao - 11541
+1269: Ngọc Rồng Siêu Thần 3 sao - 11542
+1270: Ngọc Rồng Siêu Thần 4 sao - 11543
+1271: Ngọc Rồng Siêu Thần 5 sao - 11544
+1272: Ngọc Rồng Siêu Thần  6 sao - 11545
+1273: Ngọc Rồng Siêu Thần 7 sao - 11546
+1274: Rương trang bị Hủy diệt - 11547
+1275: Chiến sủng Thần Rừng - 15128
+1276: Chiến sủng Thần Ma - 15129
+1277: Chiến sủng Thần Lửa - 15130
+1278: Rương chiến sủng thường - 15134
+1279: Rương chiến sủng VIP - 15135
+1280: Rương chiến sủng Siêu VIP - 15136
+1281: Cánh V.I.P - 15142
+1282: Bùa x10 đệ tử - 1403
+1283: Linh hồn chiến sủng bị truy nã - 15143
+1284: Cánh cấp VIP I - 17557
+1285: Black Goku Ssj3 Naked - 11398
+1286: Black Goku Ssj3 Purple - 11549
+1287: Cánh cấp VIP II - 17565
+1288: Cánh cấp VIP III - 17746
+1289: Đá Sức Mạnh cấp 1 - 17747
+1290: Đá Sức Mạnh cấp 2 - 17748
+1291: Đá Sức Mạnh cấp 3 - 17749
+1292: Đá Sức Mạnh cấp 4 - 17750
+1293: Đá Sức Mạnh cấp 5 - 17751
+1294: Đá Sức Mạnh cấp 6 - 17752
+1295: Đá Sức Mạnh cấp 7 - 17753
+1296: Đá Sức Mạnh cấp 8 - 17754
+1297: Đá Sức Mạnh cấp 9 - 17755
+1298: Đá Sức Mạnh cấp 10 - 17756
+1299: Đá Sức Mạnh cấp 11 - 17757
+1300: Đá Sức Mạnh cấp 12 - 17758
+1301: Bông tai Porata - 17759
+1302: Mảnh vỡ bông tai 2 - 17760
+1303: Rương đá sức mạnh - 17761
+1304: Cải trang Broly SSJ 3 - 17762
+1305: Merlin Meow - 17795
+1306: Gizmo Meow - 17797
+1307: Frost Meow - 17799
+1308: Raven Meow - 17801
+1309: Shadow Meow - 17803
+1310: Artemis Meow - 17805
+1311: Blizzard Meow - 17807
+1312: Whiskers Meow - 17809
+1313: Daisy Meow - 17811
+1314: Leo Meow - 17813
+1315: Mocha Meow - 17815
+1316: Luna Meow - 17817
+1317: Echo Meow - 17819
+1318: Felix Meow - 17821
+1319: Inferno Meow - 17823
+1320: Gậy Như Ý - 17836
+1321: Cải trang Whis - 7679
+1322: Cải trang Beerus - 4847
+1323: Cải trang Goku Vô Cực - 17837
+1324: Inferno Meow - 17877
+1325: Flamepunch Meow - 17869
+1326: Kim Giác Long - 17885
+1327: Rồng Vô Cực - 17886
+1328: Hộp quà trang bị thần linh - 17887
+1329: Cải trang Hằng nga - 17891
+1330: Cải trang Jiren - 17923
+1331: Rương thú cưỡi VIP - 17955
+1332: Cải trang Zeno - 17956
+1333: Cải trang Toppo - 18020
+1334: Trứng Halloween - 18022
+1335: TEST - 16999
+1336: TEST - 16999
+1337: TEST - 16999
+1338: TEST - 16999
+1339: TEST - 16999
+1340: TEST - 16999
+1341: TEST - 16999
+1342: TEST - 16999
+1343: TEST - 16999
+1344: TEST - 16999
+1345: TEST - 16999
+1346: TEST - 16999
+1347: TEST - 16999
+1348: TEST - 16999
+1349: TEST - 16999
+1350: TEST - 16999
+1351: TEST - 16999
+1352: TEST - 16999
+1353: TEST - 16999
+1354: TEST - 16999
+1355: TEST - 16999
+1356: TEST - 16999
+1357: TEST - 16999
+1358: TEST - 16999
+1359: TEST - 16999
+1360: TEST - 16999
+1361: TEST - 16999
+1362: TEST - 16999
+1363: TEST - 16999
+1364: TEST - 16999
+1365: TEST - 16999
+1366: TEST - 16999
+1367: TEST - 16999
+1368: TEST - 16999
+1369: TEST - 16999
+1370: TEST - 16999
+1371: TEST - 16999
+1372: TEST - 16999
+1373: TEST - 16999
+1374: TEST - 16999
+1375: TEST - 16999
+1376: TEST - 16999
+1377: TEST - 16999
+1378: TEST - 16999
+1379: TEST - 16999
+1380: TEST - 16999
+1381: TEST - 16999
+1382: TEST - 16999
+1383: TEST - 16999
+1384: TEST - 16999
+1385: TEST - 16999
+1386: TEST - 16999
+1387: TEST - 16999
+1388: TEST - 16999
+1389: TEST - 16999
+1390: TEST - 16999
+1391: TEST - 16999
+1392: TEST - 16999
+1393: TEST - 16999
+1394: TEST - 16999
+1395: TEST - 16999
+1396: TEST - 16999
+1397: TEST - 16999
+1398: TEST - 16999
+1399: TEST - 16999
+1400: TEST - 16999
+1401: TEST - 16999
+1402: TEST - 16999
+1403: TEST - 16999
+1404: TEST - 16999
+1405: TEST - 16999
+1406: TEST - 16999
+1407: TEST - 16999
+1408: TEST - 16999
+1409: TEST - 16999
+1410: TEST - 16999
+1411: TEST - 16999
+1412: TEST - 16999
+1413: TEST - 16999
+1414: TEST - 16999
+1415: TEST - 16999
+1416: TEST - 16999
+1417: TEST - 16999
+1418: TEST - 16999
+1419: TEST - 16999
+1420: TEST - 16999
+1421: TEST - 16999
+1422: TEST - 16999
+1423: TEST - 16999
+1424: TEST - 16999
+1425: TEST - 16999
+1426: TEST - 16999
+1427: TEST - 16999
+1428: TEST - 16999
+1429: TEST - 16999
+1430: TEST - 16999
+1431: TEST - 16999
+1432: TEST - 16999
+1433: TEST - 16999
+1434: TEST - 16999
+1435: TEST - 16999
+1436: TEST - 16999
+1437: TEST - 16999
+1438: TEST - 16999
+1439: TEST - 16999
+1440: TEST - 16999
+1441: TEST - 16999
+1442: TEST - 16999
+1443: TEST - 16999
+1444: TEST - 16999
+1445: TEST - 16999
+1446: TEST - 16999
+1447: TEST - 16999
+1448: TEST - 16999
+1449: TEST - 16999
+1450: TEST - 16999
+1451: TEST - 16999
+1452: TEST - 16999
+1453: TEST - 16999
+1454: TEST - 16999
+1455: TEST - 16999
+1456: TEST - 16999
+1457: TEST - 16999
+1458: TEST - 16999
+1459: TEST - 16999
+1460: TEST - 16999
+1461: TEST - 16999
+1462: TEST - 16999
+1463: TEST - 16999
+1464: TEST - 16999
+1465: TEST - 16999
+1466: TEST - 16999
+1467: TEST - 16999
+1468: TEST - 16999
+1469: TEST - 16999
+1470: TEST - 16999
+1471: TEST - 16999
+1472: TEST - 16999
+1473: TEST - 16999
+1474: TEST - 16999
+1475: TEST - 16999
+1476: TEST - 16999
+1477: TEST - 16999
+1478: TEST - 16999
+1479: TEST - 16999
+1480: TEST - 16999
+1481: TEST - 16999
+1482: TEST - 16999
+1483: TEST - 16999
+1484: TEST - 16999
+1485: TEST - 16999
+1486: TEST - 16999
+1487: TEST - 16999
+1488: TEST - 16999
+1489: TEST - 16999
+1490: TEST - 16999
+1491: TEST - 16999
+1492: TEST - 16999
+1493: TEST - 16999
+1494: TEST - 16999
+1495: TEST - 16999
+1496: TEST - 16999
+1497: TEST - 16999
+1498: TEST - 16999
+1499: TEST - 16999
+1500: TEST - 16999
+1501: TEST - 16999
+1502: TEST - 16999
+1503: TEST - 16999
+1504: TEST - 16999
+1505: TEST - 16999
+1506: TEST - 16999
+1507: TEST - 16999
+1508: TEST - 16999
+1509: TEST - 16999
+1510: TEST - 16999
+1511: TEST - 16999
+1512: TEST - 16999
+1513: TEST - 16999
+1514: TEST - 16999
+1515: TEST - 16999
+1516: TEST - 16999
+1517: TEST - 16999
+1518: TEST - 16999
+1519: TEST - 16999
+1520: TEST - 16999
+1521: TEST - 16999
+1522: TEST - 16999
+1523: TEST - 16999
+1524: TEST - 16999
+1525: TEST - 16999
+1526: TEST - 16999
+1527: TEST - 16999
+1528: TEST - 16999
+1529: TEST - 16999
+1530: TEST - 16999
+1531: TEST - 16999
+1532: TEST - 16999
+1533: TEST - 16999
+1534: TEST - 16999
+1535: TEST - 16999
+1536: TEST - 16999
+1537: TEST - 16999
+1538: TEST - 16999
+1539: TEST - 16999
+1540: TEST - 16999
+1541: TEST - 16999
+1542: TEST - 16999
+1543: TEST - 16999
+1544: TEST - 16999
+1545: TEST - 16999
+1546: TEST - 16999
+1547: TEST - 16999
+1548: TEST - 16999
+1549: TEST - 16999
+1550: TEST - 16999
+1551: TEST - 16999
+1552: TEST - 16999
+1553: TEST - 16999
+1554: TEST - 16999
+1555: TEST - 16999
+1556: TEST - 16999
+1557: TEST - 16999
+1558: TEST - 16999
+1559: TEST - 16999
+1560: TEST - 16999
+1561: TEST - 16999
+1562: TEST - 16999
+1563: TEST - 16999
+1564: TEST - 16999
+1565: TEST - 16999
+1566: TEST - 16999
+1567: TEST - 16999
+1568: TEST - 16999
+1569: TEST - 16999
+1570: TEST - 16999
+1571: TEST - 16999
+1572: TEST - 16999
+1573: TEST - 16999
+1574: TEST - 16999
+1575: TEST - 16999
+1576: TEST - 16999
+1577: TEST - 16999
+1578: TEST - 16999
+1579: TEST - 16999
+1580: TEST - 16999
+1581: TEST - 16999
+1582: TEST - 16999
+1583: TEST - 16999
+1584: TEST - 16999
+1585: TEST - 16999
+1586: TEST - 16999
+1587: TEST - 16999
+1588: TEST - 16999
+1589: TEST - 16999
+1590: TEST - 16999
+1591: TEST - 16999
+1592: TEST - 16999
+1593: TEST - 16999
+1594: TEST - 16999
+1595: TEST - 16999
+1596: TEST - 16999
+1597: TEST - 16999
+1598: TEST - 16999
+1599: TEST - 16999
+1600: TEST - 16999
+1601: TEST - 16999
+1602: TEST - 16999
+1603: TEST - 16999
+1604: TEST - 16999
+1605: TEST - 16999
+1606: TEST - 16999
+1607: TEST - 16999
+1608: TEST - 16999
+1609: TEST - 16999
+1610: TEST - 16999
+1611: TEST - 16999
+1612: TEST - 16999
+1613: TEST - 16999
+1614: TEST - 16999
+1615: TEST - 16999
+1616: TEST - 16999
+1617: TEST - 16999
+1618: TEST - 16999
+1619: TEST - 16999
+1620: TEST - 16999
+1621: TEST - 16999
+1622: TEST - 16999
+1623: TEST - 16999
+1624: TEST - 16999
+1625: TEST - 16999
+1626: TEST - 16999
+1627: TEST - 16999
+1628: TEST - 16999
+1629: TEST - 16999
+1630: TEST - 16999
+1631: TEST - 16999
+1632: TEST - 16999
+1633: TEST - 16999
+1634: TEST - 16999
+1635: TEST - 16999
+1636: TEST - 16999
+1637: TEST - 16999
+1638: TEST - 16999
+1639: TEST - 16999
+1640: TEST - 16999
+1641: TEST - 16999
+1642: TEST - 16999
+1643: TEST - 16999
+1644: TEST - 16999
+1645: TEST - 16999
+1646: TEST - 16999
+1647: TEST - 16999
+1648: TEST - 16999
+1649: TEST - 16999
+1650: TEST - 16999
+1651: TEST - 16999
+1652: TEST - 16999
+1653: TEST - 16999
+1654: TEST - 16999
+1655: TEST - 16999
+1656: TEST - 16999
+1657: TEST - 16999
+1658: TEST - 16999
+1659: TEST - 16999
+1660: TEST - 16999
+1661: TEST - 16999
+1662: TEST - 16999
+1663: TEST - 16999
+1664: TEST - 16999
+1665: TEST - 16999
+1666: TEST - 16999
+1667: TEST - 16999
+1668: TEST - 16999
+1669: TEST - 16999
+1670: TEST - 16999
+1671: TEST - 16999
+1672: TEST - 16999
+1673: TEST - 16999
+1674: TEST - 16999
+1675: TEST - 16999
+1676: TEST - 16999
+1677: TEST - 16999
+1678: TEST - 16999
+1679: TEST - 16999
+1680: TEST - 16999
+1681: TEST - 16999
+1682: TEST - 16999
+1683: TEST - 16999
+1684: TEST - 16999
+1685: TEST - 16999
+1686: TEST - 16999
+1687: TEST - 16999
+1688: TEST - 16999
+1689: TEST - 16999
+1690: TEST - 16999
+1691: TEST - 16999
+1692: TEST - 16999
+1693: TEST - 16999
+1694: TEST - 16999
+1695: TEST - 16999
+1696: TEST - 16999
+1697: TEST - 16999
+1698: TEST - 16999
+1699: TEST - 16999
+1700: TEST - 16999
+1701: TEST - 16999
+1702: TEST - 16999
+1703: TEST - 16999
+1704: TEST - 16999
+1705: TEST - 16999
+1706: TEST - 16999
+1707: TEST - 16999
+1708: TEST - 16999
+1709: TEST - 16999
+1710: TEST - 16999
+1711: TEST - 16999
+1712: TEST - 16999
+1713: TEST - 16999
+1714: TEST - 16999
+1715: TEST - 16999
+1716: TEST - 16999
+1717: TEST - 16999
+1718: TEST - 16999
+1719: TEST - 16999
+1720: TEST - 16999
+1721: TEST - 16999
+1722: TEST - 16999
+1723: TEST - 16999
+1724: TEST - 16999
+1725: TEST - 16999
+1726: TEST - 16999
+1727: TEST - 16999
+1728: TEST - 16999
+1729: TEST - 16999
+1730: TEST - 16999
+1731: TEST - 16999
+1732: TEST - 16999
+1733: TEST - 16999
+1734: TEST - 16999
+1735: TEST - 16999
+1736: TEST - 16999
+1737: TEST - 16999
+1738: TEST - 16999
+1739: TEST - 16999
+1740: TEST - 16999
+1741: TEST - 16999
+1742: TEST - 16999
+1743: TEST - 16999
+1744: TEST - 16999
+1745: TEST - 16999
+1746: TEST - 16999
+1747: TEST - 16999
+1748: TEST - 16999
+1749: TEST - 16999
+1750: TEST - 16999
+1751: TEST - 16999
+1752: TEST - 16999
+1753: TEST - 16999
+1754: TEST - 16999
+1755: TEST - 16999
+1756: TEST - 16999
+1757: TEST - 16999
+1758: TEST - 16999
+1759: TEST - 16999
+1760: TEST - 16999
+1761: TEST - 16999
+1762: TEST - 16999
+1763: TEST - 16999
+1764: TEST - 16999
+1765: TEST - 16999
+1766: TEST - 16999
+1767: TEST - 16999
+1768: TEST - 16999
+1769: TEST - 16999
+1770: TEST - 16999
+1771: TEST - 16999
+1772: TEST - 16999
+1773: TEST - 16999
+1774: TEST - 16999
+1775: TEST - 16999
+1776: TEST - 16999
+1777: TEST - 16999
+1778: TEST - 16999
+1779: TEST - 16999
+1780: TEST - 16999
+1781: TEST - 16999
+1782: TEST - 16999
+1783: TEST - 16999
+1784: TEST - 16999
+1785: TEST - 16999
+1786: TEST - 16999
+1787: TEST - 16999
+1788: TEST - 16999
+1789: TEST - 16999
+1790: TEST - 16999
+1791: TEST - 16999
+1792: TEST - 16999
+1793: TEST - 16999
+1794: TEST - 16999
+1795: TEST - 16999
+1796: TEST - 16999
+1797: TEST - 16999
+1798: TEST - 16999
+1799: TEST - 16999
+1800: TEST - 16999
+1801: TEST - 16999
+1802: TEST - 16999
+1803: TEST - 16999
+1804: TEST - 16999
+1805: TEST - 16999
+1806: TEST - 16999
+1807: TEST - 16999
+1808: TEST - 16999
+1809: TEST - 16999
+1810: TEST - 16999
+1811: TEST - 16999
+1812: TEST - 16999
+1813: TEST - 16999
+1814: TEST - 16999
+1815: TEST - 16999
+1816: TEST - 16999
+1817: TEST - 16999
+1818: TEST - 16999
+1819: TEST - 16999
+1820: TEST - 16999
+1821: TEST - 16999
+1822: TEST - 16999
+1823: TEST - 16999
+1824: TEST - 16999
+1825: TEST - 16999
+1826: TEST - 16999
+1827: TEST - 16999
+1828: TEST - 16999
+1829: TEST - 16999
+1830: TEST - 16999
+1831: TEST - 16999
+1832: TEST - 16999
+1833: TEST - 16999
+1834: TEST - 16999
+1835: TEST - 16999
+1836: TEST - 16999
+1837: TEST - 16999
+1838: TEST - 16999
+1839: TEST - 16999
+1840: TEST - 16999
+1841: TEST - 16999
+1842: TEST - 16999
+1843: TEST - 16999
+1844: TEST - 16999
+1845: TEST - 16999
+1846: TEST - 16999
+1847: TEST - 16999
+1848: TEST - 16999
+1849: TEST - 16999
+1850: TEST - 16999
+1851: TEST - 16999
+1852: TEST - 16999
+1853: TEST - 16999
+1854: TEST - 16999
+1855: TEST - 16999
+1856: TEST - 16999
+1857: TEST - 16999
+1858: TEST - 16999
+1859: TEST - 16999
+1860: TEST - 16999
+1861: TEST - 16999
+1862: TEST - 16999
+1863: TEST - 16999
+1864: TEST - 16999
+1865: TEST - 16999
+1866: TEST - 16999
+1867: TEST - 16999
+1868: TEST - 16999
+1869: TEST - 16999
+1870: TEST - 16999
+1871: TEST - 16999
+1872: TEST - 16999
+1873: TEST - 16999
+1874: TEST - 16999
+1875: TEST - 16999
+1876: TEST - 16999
+1877: TEST - 16999
+1878: TEST - 16999
+1879: TEST - 16999
+1880: TEST - 16999
+1881: TEST - 16999
+1882: TEST - 16999
+1883: TEST - 16999
+1884: TEST - 16999
+1885: TEST - 16999
+1886: TEST - 16999
+1887: TEST - 16999
+1888: TEST - 16999
+1889: TEST - 16999
+1890: TEST - 16999
+1891: TEST - 16999
+1892: TEST - 16999
+1893: TEST - 16999
+1894: TEST - 16999
+1895: TEST - 16999
+1896: TEST - 16999
+1897: TEST - 16999
+1898: TEST - 16999
+1899: TEST - 16999
+1900: TEST - 16999
+1901: TEST - 16999
+1902: TEST - 16999
+1903: TEST - 16999
+1904: TEST - 16999
+1905: TEST - 16999
+1906: TEST - 16999
+1907: TEST - 16999
+1908: TEST - 16999
+1909: TEST - 16999
+1910: TEST - 16999
+1911: TEST - 16999
+1912: TEST - 16999
+1913: TEST - 16999
+1914: TEST - 16999
+1915: TEST - 16999
+1916: TEST - 16999
+1917: TEST - 16999
+1918: TEST - 16999
+1919: TEST - 16999
+1920: TEST - 16999
+1921: TEST - 16999
+1922: TEST - 16999
+1923: TEST - 16999
+1924: TEST - 16999
+1925: TEST - 16999
+1926: TEST - 16999
+1927: TEST - 16999
+1928: TEST - 16999
+1929: TEST - 16999
+1930: TEST - 16999
+1931: TEST - 16999
+1932: TEST - 16999
+1933: TEST - 16999
+1934: TEST - 16999
+1935: TEST - 16999
+1936: TEST - 16999
+1937: TEST - 16999
+1938: TEST - 16999
+1939: TEST - 16999
+1940: TEST - 16999
+1941: TEST - 16999
+1942: TEST - 16999
+1943: TEST - 16999
+1944: TEST - 16999
+1945: TEST - 16999
+1946: TEST - 16999
+1947: TEST - 16999
+1948: TEST - 16999
+1949: TEST - 16999
+1950: TEST - 16999
+1951: TEST - 16999
+1952: TEST - 16999
+1953: TEST - 16999
+1954: TEST - 16999
+1955: TEST - 16999
+1956: TEST - 16999
+1957: TEST - 16999
+1958: TEST - 16999
+1959: TEST - 16999
+1960: TEST - 16999
+1961: TEST - 16999
+1962: TEST - 16999
+1963: TEST - 16999
+1964: TEST - 16999
+1965: TEST - 16999
+1966: TEST - 16999
+1967: TEST - 16999
+1968: TEST - 16999
+1969: TEST - 16999
+1970: TEST - 16999
+1971: TEST - 16999
+1972: TEST - 16999
+1973: TEST - 16999
+1974: TEST - 16999
+1975: TEST - 16999
+1976: TEST - 16999
+1977: TEST - 16999
+1978: TEST - 16999
+1979: TEST - 16999
+1980: TEST - 16999
+1981: TEST - 16999
+1982: TEST - 16999
+1983: TEST - 16999
+1984: Cải trang Anubis - 14760
+1985: Rương đá bảo vệ - 5007
+1986: Hộp vé may mắn - 14793
+1987: Gấu bông - 14794
+1988: Ngọc Trang Bị - 16420
+1989: Baby Secret - 14828
+1990: Baby Rabbit - 14829
+1991: Baby Dino - 14830
+1992: Baby Panda - 14831
+1993: Trứng Linh Thú 2 - 14864
+1994: Máy đo sức mạnh - 14865
+1995: Máy đo sức mạnh - 14866
+1996: Máy đo sức mạnh - 14867
+1997: Cải trang Hắc Mị Nương - 14968
+1998: Cải trang Lý Tiểu Nương hầu gái - 14900
+1999: Cải trang Lý Tiểu Nương hầu gái - 14933
+2000: Cải trang Zamasu - 14806
+2001: Vé đổi áo hủy diệt - 15012
+2002: Vé đổi quần hủy diệt - 15013
+2003: Vé đổi găng hủy diệt - 15014
+2004: Vé đổi giày hủy diệt - 15015
+2005: Vé đổi nhẫn hủy diệt - 15016
+2006: Phiếu cải trang hải tặc - 5721
+2007: Phiếu cải trang hải tặc - 5721
+2008: Phiếu cải trang hải tặc - 5721
+2009: Mảnh kích hoạt - 15017
+2010: Bùa bảo vệ Vé - 15018
+2011: Thỏi vàng khoá - 15019
+2012: Hộp quà Bùa 1 ngày - 15020
+2013: Sắt - 15021
+2014: Nhựa - 15022
+2015: Keo - 15023
+2016: Chuôi kiếm - 15024
+2017: Lưỡi kiếm - 15025
+2018: Thần Kiếm - 15028
+2019: Hồng ngọc khoá - 7743
+2020: Hộp quà Sét Kích Hoạt - 11202
+2021: Super Coin - 15023
+2022: Cải trang Kuku - 2137
+2023: Hộp quà Sự Kiện - 10892
+2024: Hộp quà Cải trang 1 - 10892
+2025: Hộp quà Phụ kiện - 10892
+2026: Cải trang Chan Xư - 3682
+2027: Hộp trang bị 1 - 15024
+2028: Hộp trang bị 2 - 15024
+2029: Hộp trang bị hiếm - 15024
+2030: Cải trang Mabư Còm - 16829
+2031: Cải trang Rồng Omega - 16634
+2032: Cải trang Yanrobi - 16666
+2033: Cải trang Ăn Trộm - 15025
+2034: Rương Tử Kim - 15055
+2035: Hộp quà Sự Kiện 8/3 - 10892
+2036: Cải trang Xayda SSJ 2 - 15071
+2037: Hộp quà Tân thủ - 6123
+2038: Đồng xu may mắn - 15088
+2039: Rương bí ẩn - 15089
+2040: Rương máy dò - 15090
+2041: Rương thú cưỡi - 15091
+2042: Cần câu 3h - 15092
+2043: Cải trang  Huyền Thoại - 15093
+2044: Phượng hoàng lửa - 15125
+2045: Dragon Blue - 15126
+2046: Cần câu 9h - 15127
+2047: Cải trang  Gogeta God Red - 16002
+2048: Cải trang Goku SSJ 4 - 16034
+2049: Cải trang Cadic SSJ 4 - 16066
+2050: Cải trang Goku SSJ 4 Blue - 16098
+2051: Gohan Tí Nị - 16132
+2052: Picolo Atula - 16193
+2053: Cải trang Huyền thoại Goku - 16194
+2054: Cải trang Cell Bọ Hung 1 - 2345
+2055: Hộp quà cải trang - 11202
+2056: Hộp quà Tân thủ 2 - 6123
+2057: Huy Chương Vàng - 16290
+2058: Huy Chương Bạc - 16289
+2059: Máy dò sự kiện - 16291
+2060: Đá cộng hưởng - 16292
+2061: Cocktail Mùa Hè - 16293
+2062: Dưa hấu - 16294
+2063: Cherry - 16295
+2064: Dâu Tây - 16296
+2065: Pet Mèo Puar - 16316
+2066: Pet Dế Gregory - 16313
+2067: Trứng Linh Thú - 16327
+2068: Thức ăn Linh Thú - 16326
+2069: Mảnh vỡ trứng Linh Thú - 16328
+2070: Sách kỹ năng Linh Thú - 16329
+2071: Hạt kinh nghiệm Linh Thú - 16330
+2072: Kẹo mút Dâu - 16334
+2073: Kẹo mút Cam - 16333
+2074: Yaritobe Red - 16335
+2075: Goku SSJ God - 16367
+2076: Pet Răng Sún - 16419
+2077: Mảnh áo Thần Linh - 10197
+2078: Mảnh quần Thần Linh - 10198
+2079: Mảnh găng tay Thần Linh - 10200
+2080: Mảnh giầy Thần Linh - 10199
+2081: Mảnh nhẫn Thần Linh - 10201
+2082: Ngọc Trang Bị - 16420
+2083: Hộp quà Cải trang 2 - 10892
+2084: Cải trang Goku Ultra - 16421
+2085: Rương trang bị thần linh - 16458
+2086: Tự động luyện tập - 4387
+2087: Tự động luyện tập - 4387
+2088: Hộp trang bị tân thủ - 6123
+2089: Mảnh linh hồn đệ tử - 737
+2090: Pet Cún Con - 6161
+2091: Phượng hoàng băng - 16459
+2092: Ngọc xanh - 932
+2093: Cải trang Goku SSJ 3 - 16492
+2094: Cải trang Goku SSJ 2 - 16497
+2095: Cải trang Goku SSJ 2 Blue - 16504
+2096: Giáp tập luyện - 4429
+2097: Giáp tập luyện - 4429
+2098: Giáp tập luyện - 4429
+2099: Mảnh vỡ giáp tập luyện - 16569
+2100: Cải trang Cumber Black - 16570
+2101: Cải trang Cumber Gold - 16602
+2102: Máy dò Armor - 16861
+2103: Vỏ Xên bọ hung - 16862
+2104: Bùa x2 đệ tử - 1403
+2105: Hộp trang bị phôi - 16863
+2106: Phôi Giáp tập luyện - 4429
+2107: Xúc xích siêu cay - 16864
+2108: Ngọc Trang Bị - 16420
+2109: Cờ Tổ Quốc Việt Nam - 16869
+2110: Chìa khoá Tử Kim - 16874
+2111: Pet Voi Chín Ngà - 16900
+2112: Cải trang Trunks Blue - 16964
+2113: Cải trang Picolo Ác Ma - 16932
+2114: Cải trang Goten Blue - 16933
+2115: Hộp quà Cải trang Đệ tử - 10892
+2116: Hộp quà phụ kiện Trung thu - 10892
+2117: Vé gọi BOSS - 16998
+2118: Đá sáng tạo - 16999
+2119: Lông vũ - 17000
+2120: Cánh cấp 1 - 10603
+2121: Cánh cấp 2 - 10603
+2122: Cánh cấp 3 - 17037
+2123: Cánh cấp 4 - 17051
+2124: Cánh cấp 5 - 17058
+2125: Rương phôi nhân phẩm - 17059
+2126: Rương tân thủ 3 - 17060
+2127: Vé sự kiện - 17062
+2128: Rương tân thủ 4 - 17060
+2129: Rương tân thủ 5 - 17060
+2130: Cải trang Gohan Beast - 17095
+2131: Thẻ săn BOSS - 17063
+2132: Rương thần linh cấp 2 - 16458
+2133: Vé quay ngọc đen - 7389
+2134: Vé quay ngọc đen - 7389
+2135: Cải trang Black Goku - 5141
+2136: Ngôi sao may mắn - 17097
+2137: Pet Tuần Lộc Cute - 17141
+2138: Vé Giáng Sinh - 17150
+2139: Lưỡi hái hồng - 17165
+2140: Cải trang Black Goku Rose - 17138
+2141: Hộp quà cao cấp - 17060
+2142: Vòng sức mạnh cấp 1 - 17166
+2143: Vòng sức mạnh cấp 2 - 17167
+2144: Vòng sức mạnh cấp 3 - 17168
+2145: Vòng sức mạnh cấp 4 - 17169
+2146: Vòng sức mạnh cấp 5 - 17170
+2147: Vòng sức mạnh cấp 6 - 17171
+2148: Vòng sức mạnh cấp 7 - 17172
+2149: Vòng sức mạnh cấp 8 - 17173
+2150: Vòng sức mạnh cấp 9 - 17174
+2151: Pet Pikachu - 17175
+2152: Pet Galio - 17189
+2153: Đá Sử Thi - 17196
+2154: Giáp tập luyện Sử Thi - 4430
+2155: Vé may mắn 1% - 17197
+2156: Vé may mắn 2% - 17198
+2157: Vé may mắn 5% - 17199
+2158: Vạn - 17401
+2159: Sự - 17402
+2160: Như - 17403
+2161: Ý - 17404
+2162: Túi vàng Ất Tỵ - 17405
+2163: Bao lì xì Tết - 17406
+2164: Rồng Băng Nguyên Thủy - 17200
+2165: Cải trang Bunma Áo Đỏ - 17222
+2166: Cải trang Bunma Áo Xanh - 17353
+2167: Cải trang Goku Thần tài - 17285
+2168: Cải trang Picolo Thần tài - 17316
+2169: Cải trang Cadic Thần tài - 17254
+2170: Thanh Long Uyển Nguyệt Đao - 17221
+2171: Bánh Tét Ất Tỵ - 17416
+2172: Người máy Giru T60 - 17415
+2173: Pháo hoa Ất tỵ - 17417
+2174: Hồn ấn - 17450
+2175: Cải trang Goku Ngọa Long - 17451
+2176: Cải trang Picolo Phụng Sồ - 17513
+2177: Cải trang Cadic Tử Long - 17482
+2178: Rương trang bị hỗ trợ - 17060
+2179: Hộp quà tri ân - 17060
+2180: Bình chứa Hồn - 14827
