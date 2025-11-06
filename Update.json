@@ -1,6 +1,6 @@
 {
-  "Version": "1.0",
-  "Notification": "Sửa chạy map và update idmap mới",
+  "Version": "2.0",
+  "Notification": "Sửa random khu up",
   "Update": [
     {
       "Name": "toolpvt.jar",
